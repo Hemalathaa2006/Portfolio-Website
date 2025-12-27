@@ -5,7 +5,6 @@ A simple personal portfolio website built using HTML, CSS, and JavaScript to sho
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
 
 ## How to Run
 Open `index.html` in any web browser.
